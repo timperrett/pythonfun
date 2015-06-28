@@ -1,6 +1,6 @@
-print ("how are you feeling today?")
+print ("How are you feeling today?")
 feeling = input()
 if feeling == "good": 
-  print ("that's good!")
+  print ("That's good!")
 else:
-    print ("i'm sorry you feel like that.")
+    print ("I'm sorry you feel like that.")
